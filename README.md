@@ -17,7 +17,7 @@ A minimal HTTP server built using Node.js's built-in `http` module — no framew
 ### Run the server
 
 ```bash
-node server.js
+node index.js
 ```
 
 You should see this in your terminal:
